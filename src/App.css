@@ -38,6 +38,13 @@ button:hover{
   color: white;
   border: none;
 }
+#h1
+{
+  background-color: #171747;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
 
 @keyframes App-logo-spin {
   from {
