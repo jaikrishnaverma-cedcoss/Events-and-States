@@ -14,7 +14,7 @@ class Incr extends Component {
     render() { 
         return (
             <>
-            <button style={{padding:"10px",fontSize:"30px"}} onClick={this.Actioner}>The Number is {this.state.counter}</button>
+            <button style={{padding:"10px",fontSize:"30px"}} onClick={this.Actioner}>Click {this.state.counter} Times</button>
             <p>{this.state.message}</p>
             </>
         );
